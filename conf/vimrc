@@ -1,0 +1,10 @@
+set tabstop=2
+set shiftwidth=2
+set noexpandtab
+set ruler
+set number
+syntax on
+filetype plugin indent on
+set splitbelow
+
+nnoremap <F2> :term<CR>

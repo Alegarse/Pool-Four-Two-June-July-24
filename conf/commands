@@ -1,0 +1,4 @@
+#Agregar header = fn+space+f1
+#Verificar = norminette xxx.c
+#Compilar = cc -Wall -Wextra -Werror xxx.c -o xxx
+#Ejecutar = ./xxx
